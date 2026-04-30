@@ -84,3 +84,11 @@ tcp.port == 22
 - Multiple failed SSH login attempts
 - Same IP sending repeated requests
 - High-frequency traffic on port 22
+
+---
+
+## 🚨 Detection Indicators
+- Repeated authentication failures
+- Continuous connection attempts
+- Abnormal spike in SSH traffic
+- Suspicious source IP behavior
