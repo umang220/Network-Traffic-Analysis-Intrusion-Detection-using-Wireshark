@@ -1,6 +1,28 @@
 # 🔍 Network Traffic Analysis & Intrusion Detection using Wireshark
 
+![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-blue)
+![Tool](https://img.shields.io/badge/Tool-Wireshark-orange)
+![Attack](https://img.shields.io/badge/Attack-Brute%20Force-red)
+![Project](https://img.shields.io/badge/Project-SOC%20Lab-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 > A hands-on SOC lab project to simulate and detect brute-force attacks using real-time network traffic analysis.
+
+---
+
+## 📑 Table of Contents
+- [📌 Project Overview](#-project-overview)
+- [🎯 Objectives](#-objectives)
+- [🛠️ Tools & Technologies](#️-tools--technologies)
+- [🧪 Lab Setup](#-lab-setup)
+- [⚙️ Steps Performed](#️-steps-performed)
+- [🚨 Detection Indicators](#-detection-indicators)
+- [📊 Key Findings](#-key-findings)
+- [📸 Screenshots](#-screenshots)
+- [📁 Project Structure](#-project-structure)
+- [💼 Resume Worthy Highlights](#-resume-worthy-highlights)
+- [🚀 Future Improvements](#-future-improvements)
+- [👤 Author](#-author)
 
 ---
 
