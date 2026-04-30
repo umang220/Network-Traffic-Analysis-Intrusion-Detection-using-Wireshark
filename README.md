@@ -92,3 +92,29 @@ tcp.port == 22
 - Continuous connection attempts
 - Abnormal spike in SSH traffic
 - Suspicious source IP behavior
+
+---
+
+## 📊 Key Findings
+- Brute-force attacks generate high-volume traffic
+- Easily detectable using filters in Wireshark
+- Packet-level analysis helps identify attack patterns
+
+---
+
+## 📸 Screenshots
+- Wireshark Packet Capture
+
+- Hydra Brute-force Attack
+
+- Traffic Analysis
+
+---
+
+## 📁 Project Structure
+Wireshark-SOC-Lab/
+│
+├── screenshots/
+├── capture-files/
+├── README.md
+└── notes.txt
