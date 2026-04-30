@@ -141,10 +141,11 @@ Network-Traffic-Analysis-Intrusion-Detection-using-Wireshark/
 
 ## 👤 Author
 Umang Srivastava
+
 Cybersecurity Enthusiast | Aspiring Penetration Tester
 
 ---
 
-⭐ Support
+### ⭐ Support
 
-If you like this project, give it a star ⭐ on GitHub!
+### If you like this project, give it a star ⭐ on GitHub!
