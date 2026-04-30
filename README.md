@@ -104,6 +104,7 @@ tcp.port == 22
 
 ## 📸 Screenshots
 - Wireshark Packet Capture
+<img src="screenshots/Credential  Leak.jpeg">
 
 - Hydra Brute-force Attack
 
