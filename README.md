@@ -112,9 +112,39 @@ tcp.port == 22
 ---
 
 ## 📁 Project Structure
-Wireshark-SOC-Lab/
+```
+Network-Traffic-Analysis-Intrusion-Detection-using-Wireshark/
 │
 ├── screenshots/
 ├── capture-files/
 ├── README.md
 └── notes.txt
+```
+
+---
+
+## 💼 Resume Worthy Highlights
+- Simulated brute-force attack using Hydra
+- Performed network traffic analysis using Wireshark
+- Identified attack patterns through packet inspection
+- Built a mini SOC lab environment
+
+---
+
+## 🚀 Future Improvements
+- Integrate with SIEM tools (Splunk)
+- Add Suricata IDS detection
+- Automate alert system
+- Analyze additional attack scenarios
+
+---
+
+## 👤 Author
+Umang Srivastava
+Cybersecurity Enthusiast | Aspiring Penetration Tester
+
+---
+
+⭐ Support
+
+If you like this project, give it a star ⭐ on GitHub!
