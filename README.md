@@ -49,14 +49,16 @@ A brute-force attack is simulated using Hydra, and the generated traffic is anal
 ### 3️⃣ Attack Simulation
 ```bash
 hydra -l username -P password.txt ssh://<target-ip>
-4️⃣ Traffic Analysis
-Applied Wireshark filter:
+```
+
+### 4️⃣ Traffic Analysis
+```
 tcp.port == 22
-Observed repeated login attempts
-Identified abnormal traffic spikes
-Detected multiple SSH authentication failures
-5️⃣ Detection
-Multiple failed login attempts
-Same IP sending repeated requests
-High-frequency traffic on port 22
-Suspicious brute-force attack pattern identified
+```
+- Observed repeated login attempts
+- Identified abnormal traffic spikes
+
+### 5️⃣ Detection
+- Multiple failed SSH login attempts
+- Same IP sending repeated requests
+- High-frequency traffic on port 22
