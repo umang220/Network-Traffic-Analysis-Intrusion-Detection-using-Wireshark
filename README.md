@@ -109,6 +109,7 @@ tcp.port == 22
 - Hydra Brute-force Attack
 
 - Traffic Analysis
+<img src="screenshots/analysis.jpg">
 
 ---
 
