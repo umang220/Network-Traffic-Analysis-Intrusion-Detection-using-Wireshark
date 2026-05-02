@@ -1,11 +1,10 @@
 # 🔍 Network Traffic Analysis using Wireshark
 
 [![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-blue)](https://www.kali.org/)
-![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-blue) (https://www.kali.org/)
-![Tool](https://img.shields.io/badge/Tool-Wireshark-orange)
-![Attack](https://img.shields.io/badge/Attack-Brute%20Force-red)
-![Project](https://img.shields.io/badge/Project-SOC%20Lab-green)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+[![Tool](https://img.shields.io/badge/Tool-Wireshark-orange)](https://www.wireshark.org/)
+[![Attack](https://img.shields.io/badge/Attack-Brute%20Force-red)](https://en.wikipedia.org/wiki/Brute-force_attack)
+[![Project](https://img.shields.io/badge/Project-SOC%20Lab-green)](https://github.com/umang220/Network-Traffic-Analysis-using-Wireshark)
+[![Status](https://img.shields.io/badge/Status-Completed-success)](https://github.com/umang220/Network-Traffic-Analysis-using-Wireshark)
 
 > A hands-on SOC lab project to simulate and detect brute-force attacks using real-time network traffic analysis.
 
