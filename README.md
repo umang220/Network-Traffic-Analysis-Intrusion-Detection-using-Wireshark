@@ -1,6 +1,6 @@
 # 🔍 Network Traffic Analysis using Wireshark
 
-![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-blue)(https://www.kali.org/)
+![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-blue) (https://www.kali.org/)
 ![Tool](https://img.shields.io/badge/Tool-Wireshark-orange)
 ![Attack](https://img.shields.io/badge/Attack-Brute%20Force-red)
 ![Project](https://img.shields.io/badge/Project-SOC%20Lab-green)
