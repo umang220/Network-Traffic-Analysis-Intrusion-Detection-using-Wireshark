@@ -1,4 +1,4 @@
-# 🔍 Network Traffic Analysis & Intrusion Detection using Wireshark
+# 🔍 Network Traffic Analysis using Wireshark
 
 ![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-blue)
 ![Tool](https://img.shields.io/badge/Tool-Wireshark-orange)
