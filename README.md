@@ -6,18 +6,6 @@
 ![Project](https://img.shields.io/badge/Project-SOC%20Lab-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-![Kali Linux](https://img.shields.io/badge/Platform-Kali%20Linux-blue?style=flat-square&logo=kali-linux)
-![Wireshark](https://img.shields.io/badge/Tool-Wireshark-orange?style=flat-square&logo=wireshark)
-![Brute Force](https://img.shields.io/badge/Attack-Brute%20Force-red?style=flat-square)
-![SOC Lab](https://img.shields.io/badge/Project-SOC%20Lab-green?style=flat-square)
-![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
-
-<image-card alt="Platform" src="https://img.shields.io/badge/Platform-Kali%20Linux-blue"></image-card>
-<image-card alt="Tool" src="https://img.shields.io/badge/Tool-Wireshark-orange"></image-card>
-<image-card alt="Attack" src="https://img.shields.io/badge/Attack-Brute%20Force-red"></image-card>
-<image-card alt="Project" src="https://img.shields.io/badge/Project-SOC%20Lab-green"></image-card>
-<image-card alt="Status" src="https://img.shields.io/badge/Status-Completed-success"></image-card>
-
 > A hands-on SOC lab project to simulate and detect brute-force attacks using real-time network traffic analysis.
 
 ---
